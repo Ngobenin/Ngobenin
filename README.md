@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React and JavaScript
 - 💞️ I’m looking to collaborate on Front-end Frameworks, HTML, CSS and Javascript
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am a Financial Accounting Graduate who just recently interested in programming
+- ⚡ Fun fact: I am a Financial Accounting Graduate who just recently fell in love with writing code
 
 <!---
 Ngobenin/Ngobenin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
